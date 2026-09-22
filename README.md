@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Nimra 👋  
+### 💻 Front-End Developer & UI/UX Designer
 
-<!--
-**Nimra-23/Nimra-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3+ years of experience building clean, pixel-perfect, and fully responsive websites. Delivered 30+ successful projects for modern businesses.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Skills
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
+- **Styling & Frameworks:** Tailwind CSS, Bootstrap 4/5  
+- **State & Routing:** React Hooks, React Router  
+- **Design & Motion:** Figma/PSD to Code, GSAP Animations (ScrollTrigger)  
+- **Optimization:** PageSpeed Optimization & Mobile-First Code  
+
+---
+
+### 💡 What I Build & Do
+- 📱 Responsive Landing Pages & Modern Business Websites
+- 🛒 eCommerce Frontend Interfaces
+- 🎨 UI/UX Improvements & Smooth Interactive Animations
+- 🛠️ Bug Fixing, Customizations & Speed Optimization
+
+---
+
+### 🌐 Connect With Me
+- 💼 **Portfolio:** [proskillspk.netlify.app](https://proskillspk.netlify.app/)
+- 📧 **GitHub:** [Nimra-23](https://github.com/Nimra-23)
